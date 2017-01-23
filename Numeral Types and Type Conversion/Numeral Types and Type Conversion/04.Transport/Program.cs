@@ -10,6 +10,15 @@ namespace _04.Transport
     {
         static void Main(string[] args)
         {
+            int people = int.Parse(Console.ReadLine());
+            int capacity = 4 + 8 + 12;
+
+            int courses = (int)Math.Ceiling((double)people / capacity);
+
+            Console.WriteLine(courses);
+
+
+
         }
     }
 }
