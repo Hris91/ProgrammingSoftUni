@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Special Numbers", "01.Test\01. Special Numbers.csproj", "{4BA60ED0-340C-4709-A700-9B4607A413A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Triples of Latin Letters", "02. Triples of Latin Letters\02. Triples of Latin Letters.csproj", "{6842C688-B8E2-4565-8E8F-D27B78AD3C98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Greeting", "03. Greeting\03. Greeting.csproj", "{B17EAF03-76E6-4D28-B784-A92D43130C78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Refactor Special Numbers", "04. Refactor Volume of Pyramid\05.Refactor Special Numbers.csproj", "{E91DF574-B447-4697-9B7D-D91BC67FACC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Volume of Pyramid", "04. Volume of Pyramid\04. Volume of Pyramid.csproj", "{69EA8084-903F-44D0-A6E1-DE6164CB32D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BA60ED0-340C-4709-A700-9B4607A413A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BA60ED0-340C-4709-A700-9B4607A413A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BA60ED0-340C-4709-A700-9B4607A413A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BA60ED0-340C-4709-A700-9B4607A413A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6842C688-B8E2-4565-8E8F-D27B78AD3C98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6842C688-B8E2-4565-8E8F-D27B78AD3C98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6842C688-B8E2-4565-8E8F-D27B78AD3C98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6842C688-B8E2-4565-8E8F-D27B78AD3C98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B17EAF03-76E6-4D28-B784-A92D43130C78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B17EAF03-76E6-4D28-B784-A92D43130C78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B17EAF03-76E6-4D28-B784-A92D43130C78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B17EAF03-76E6-4D28-B784-A92D43130C78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E91DF574-B447-4697-9B7D-D91BC67FACC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E91DF574-B447-4697-9B7D-D91BC67FACC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E91DF574-B447-4697-9B7D-D91BC67FACC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E91DF574-B447-4697-9B7D-D91BC67FACC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69EA8084-903F-44D0-A6E1-DE6164CB32D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69EA8084-903F-44D0-A6E1-DE6164CB32D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69EA8084-903F-44D0-A6E1-DE6164CB32D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69EA8084-903F-44D0-A6E1-DE6164CB32D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
