@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Blank Receipt", "01.Test\01. Blank Receipt.csproj", "{A57E3BCA-D5B4-46AC-BF61-8DD78AC584D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Sign of Integer Number", "02.tests\02. Sign of Integer Number.csproj", "{23250383-6859-4A97-B7AF-AFA29B05CF7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Printing Triangle", "03. Printing Triangle\03. Printing Triangle.csproj", "{E3CBE337-4AA0-4B2A-B059-79F9A8F071A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Draw a Filled Square", "04. Draw a Filled Square\04. Draw a Filled Square.csproj", "{B08A3E0D-C08C-43BF-90C9-DC36FB952800}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Calculate Triangle Area", "05. Calculate Triangle Area\05. Calculate Triangle Area.csproj", "{3F1F39CE-964F-41B8-B4B0-73593FCFA206}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Math Power", "06. Math Power\06. Math Power.csproj", "{F14305B5-3574-49FA-B79D-71DEA3FBBDE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Greater of Two Values", "07. Greater of Two Values\07. Greater of Two Values.csproj", "{7D8A98DD-6597-4BF1-998E-834F897DCBF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A57E3BCA-D5B4-46AC-BF61-8DD78AC584D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A57E3BCA-D5B4-46AC-BF61-8DD78AC584D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A57E3BCA-D5B4-46AC-BF61-8DD78AC584D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A57E3BCA-D5B4-46AC-BF61-8DD78AC584D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23250383-6859-4A97-B7AF-AFA29B05CF7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23250383-6859-4A97-B7AF-AFA29B05CF7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23250383-6859-4A97-B7AF-AFA29B05CF7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23250383-6859-4A97-B7AF-AFA29B05CF7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3CBE337-4AA0-4B2A-B059-79F9A8F071A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3CBE337-4AA0-4B2A-B059-79F9A8F071A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3CBE337-4AA0-4B2A-B059-79F9A8F071A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3CBE337-4AA0-4B2A-B059-79F9A8F071A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B08A3E0D-C08C-43BF-90C9-DC36FB952800}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B08A3E0D-C08C-43BF-90C9-DC36FB952800}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B08A3E0D-C08C-43BF-90C9-DC36FB952800}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B08A3E0D-C08C-43BF-90C9-DC36FB952800}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F1F39CE-964F-41B8-B4B0-73593FCFA206}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F1F39CE-964F-41B8-B4B0-73593FCFA206}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F1F39CE-964F-41B8-B4B0-73593FCFA206}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F1F39CE-964F-41B8-B4B0-73593FCFA206}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F14305B5-3574-49FA-B79D-71DEA3FBBDE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F14305B5-3574-49FA-B79D-71DEA3FBBDE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F14305B5-3574-49FA-B79D-71DEA3FBBDE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F14305B5-3574-49FA-B79D-71DEA3FBBDE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D8A98DD-6597-4BF1-998E-834F897DCBF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D8A98DD-6597-4BF1-998E-834F897DCBF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D8A98DD-6597-4BF1-998E-834F897DCBF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D8A98DD-6597-4BF1-998E-834F897DCBF2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

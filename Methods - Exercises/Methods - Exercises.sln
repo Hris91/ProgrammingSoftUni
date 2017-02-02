@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Hello, Name!", "01.Hello, Name!\01.Hello, Name!.csproj", "{E6B42617-7E7B-4F45-A06B-FEEA53076826}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Min Method", "02. Min Method\02. Min Method.csproj", "{930A0B25-C156-4A0B-9BF0-FBF1ADA274FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. String Repeater", "03. String Repeater\03. String Repeater.csproj", "{1E90B705-EF4C-49BB-9880-F0D090987CF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Nth Digit", "04. Nth Digit\04. Nth Digit.csproj", "{A470BF60-B4FC-4D5C-A6B1-7A4C4BA305D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.IntegerToBase", "05.Experiment\05.IntegerToBase.csproj", "{339EDE18-C715-4AC1-A1AD-7D1DF239F612}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Notifications", "06. Notifications\06. Notifications.csproj", "{2EF42419-4EA0-43A1-B793-162845B10AC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.Experimnet", "07.Experimnet\07.Experimnet.csproj", "{E09811E2-4117-4385-8884-4A539B6C407E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6B42617-7E7B-4F45-A06B-FEEA53076826}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6B42617-7E7B-4F45-A06B-FEEA53076826}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6B42617-7E7B-4F45-A06B-FEEA53076826}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6B42617-7E7B-4F45-A06B-FEEA53076826}.Release|Any CPU.Build.0 = Release|Any CPU
+		{930A0B25-C156-4A0B-9BF0-FBF1ADA274FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{930A0B25-C156-4A0B-9BF0-FBF1ADA274FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{930A0B25-C156-4A0B-9BF0-FBF1ADA274FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{930A0B25-C156-4A0B-9BF0-FBF1ADA274FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E90B705-EF4C-49BB-9880-F0D090987CF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E90B705-EF4C-49BB-9880-F0D090987CF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E90B705-EF4C-49BB-9880-F0D090987CF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E90B705-EF4C-49BB-9880-F0D090987CF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A470BF60-B4FC-4D5C-A6B1-7A4C4BA305D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A470BF60-B4FC-4D5C-A6B1-7A4C4BA305D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A470BF60-B4FC-4D5C-A6B1-7A4C4BA305D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A470BF60-B4FC-4D5C-A6B1-7A4C4BA305D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{339EDE18-C715-4AC1-A1AD-7D1DF239F612}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{339EDE18-C715-4AC1-A1AD-7D1DF239F612}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{339EDE18-C715-4AC1-A1AD-7D1DF239F612}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{339EDE18-C715-4AC1-A1AD-7D1DF239F612}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EF42419-4EA0-43A1-B793-162845B10AC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EF42419-4EA0-43A1-B793-162845B10AC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EF42419-4EA0-43A1-B793-162845B10AC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EF42419-4EA0-43A1-B793-162845B10AC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E09811E2-4117-4385-8884-4A539B6C407E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E09811E2-4117-4385-8884-4A539B6C407E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E09811E2-4117-4385-8884-4A539B6C407E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E09811E2-4117-4385-8884-4A539B6C407E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
