@@ -1,0 +1,49 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace _02.Triangle_Formations_Debug
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            var a = int.Parse(Console.ReadLine());
+            var b = int.Parse(Console.ReadLine());
+            var c = int.Parse(Console.ReadLine());
+
+                bool triangleValidityCondition0 = a > 1 && b > 1 && c > 1;
+                bool triangleValidityCondition1 = a + b > c;
+                bool triangleValidityCondition2 = a + c > b;
+                bool triangleValidityCondition3 = b + c > a;
+                bool isValidTriangle = triangleValidityCondition0 && (triangleValidityCondition1 || triangleValidityCondition2 || triangleValidityCondition3);
+
+                if (isValidTriangle == true)
+                {
+                    Console.WriteLine("Triangle is valid.");
+                }
+                else if (isValidTriangle == false)
+                {
+                    Console.WriteLine("Invalid Triangle.");
+                    return;
+                }
+
+                var rightTriangleCondition1 = a * a + b * b == c * c;
+                var rightTriangleCondition2 = b * b + c * c == a * a;
+                var rightTriangleCondition3 = a * a + c * c == b * b;
+
+                if (rightTriangleCondition1)
+                    Console.WriteLine("Triangle has a right angle between sides a and b");
+                else if (rightTriangleCondition2)
+                    Console.WriteLine("Triangle has a right angle between sides b and c");
+                else if (rightTriangleCondition3)
+                    Console.WriteLine("Triangle has a right angle between sides a and c");
+                else
+                    Console.WriteLine("Triangle has no right angles");
+            
+           
+        }
+    }
+}

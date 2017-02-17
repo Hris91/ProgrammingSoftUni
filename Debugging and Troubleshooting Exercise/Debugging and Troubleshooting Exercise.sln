@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Tricky Strings", "01.Tricky Strings\01.Tricky Strings.csproj", "{2F0AAD3A-87F1-4B07-9B45-063D26156E5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Triangle Formations Debug", "02.Triangle Formations Debug\02.Triangle Formations Debug.csproj", "{D4598971-1E13-483E-BDF0-186C901569D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Debugging Exercise Tetris", "03. Debugging Exercise Tetris\03. Debugging Exercise Tetris.csproj", "{7FA72FA9-6811-4B94-9B0D-544F40C311A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Mining Coins", "04. Mining Coins\04. Mining Coins.csproj", "{A31C6150-6F96-43C0-BCA2-082A4B9983CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F0AAD3A-87F1-4B07-9B45-063D26156E5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F0AAD3A-87F1-4B07-9B45-063D26156E5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F0AAD3A-87F1-4B07-9B45-063D26156E5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F0AAD3A-87F1-4B07-9B45-063D26156E5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4598971-1E13-483E-BDF0-186C901569D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4598971-1E13-483E-BDF0-186C901569D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4598971-1E13-483E-BDF0-186C901569D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4598971-1E13-483E-BDF0-186C901569D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FA72FA9-6811-4B94-9B0D-544F40C311A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FA72FA9-6811-4B94-9B0D-544F40C311A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FA72FA9-6811-4B94-9B0D-544F40C311A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FA72FA9-6811-4B94-9B0D-544F40C311A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A31C6150-6F96-43C0-BCA2-082A4B9983CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A31C6150-6F96-43C0-BCA2-082A4B9983CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A31C6150-6F96-43C0-BCA2-082A4B9983CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A31C6150-6F96-43C0-BCA2-082A4B9983CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

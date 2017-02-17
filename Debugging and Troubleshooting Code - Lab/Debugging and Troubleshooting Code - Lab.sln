@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Multiply Evens by Odds", "Debugging and Troubleshooting Code - Lab\01.Multiply Evens by Odds.csproj", "{C9592A7A-861E-416D-8F1C-902FCDA62A05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Holidays Between Two Dates", "02. Holidays Between Two Dates\02. Holidays Between Two Dates.csproj", "{D0AFE1FD-35D3-4638-ABEA-5F9106D99A5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Price Change Alert", "03.Price Change Alert\03.Price Change Alert.csproj", "{6475D6B9-6F71-455F-9585-E1A26154E6EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9592A7A-861E-416D-8F1C-902FCDA62A05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9592A7A-861E-416D-8F1C-902FCDA62A05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9592A7A-861E-416D-8F1C-902FCDA62A05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9592A7A-861E-416D-8F1C-902FCDA62A05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0AFE1FD-35D3-4638-ABEA-5F9106D99A5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0AFE1FD-35D3-4638-ABEA-5F9106D99A5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0AFE1FD-35D3-4638-ABEA-5F9106D99A5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0AFE1FD-35D3-4638-ABEA-5F9106D99A5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6475D6B9-6F71-455F-9585-E1A26154E6EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6475D6B9-6F71-455F-9585-E1A26154E6EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6475D6B9-6F71-455F-9585-E1A26154E6EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6475D6B9-6F71-455F-9585-E1A26154E6EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
