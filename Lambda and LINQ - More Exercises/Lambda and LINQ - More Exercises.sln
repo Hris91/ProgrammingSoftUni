@@ -5,6 +5,12 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00.Test", "00.Test\00.Test.csproj", "{BAEE2C78-F13A-4C78-8347-9BB0884FEC7B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Lambada Expressions", "01. Lambada Expressions\01. Lambada Expressions.csproj", "{136B25B9-59C4-4EAE-986E-0D15185AB6EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Ordered Banking System", "02. Ordered Banking System\02. Ordered Banking System.csproj", "{15FFC8E9-F8A7-4683-82B7-37F00D697C1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. LINQuistics", "03. LINQuistics\03. LINQuistics.csproj", "{735F74F1-397D-4304-8E67-427B0C24C25A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +21,18 @@ Global
 		{BAEE2C78-F13A-4C78-8347-9BB0884FEC7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BAEE2C78-F13A-4C78-8347-9BB0884FEC7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BAEE2C78-F13A-4C78-8347-9BB0884FEC7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{136B25B9-59C4-4EAE-986E-0D15185AB6EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{136B25B9-59C4-4EAE-986E-0D15185AB6EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{136B25B9-59C4-4EAE-986E-0D15185AB6EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{136B25B9-59C4-4EAE-986E-0D15185AB6EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15FFC8E9-F8A7-4683-82B7-37F00D697C1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15FFC8E9-F8A7-4683-82B7-37F00D697C1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15FFC8E9-F8A7-4683-82B7-37F00D697C1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15FFC8E9-F8A7-4683-82B7-37F00D697C1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{735F74F1-397D-4304-8E67-427B0C24C25A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{735F74F1-397D-4304-8E67-427B0C24C25A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{735F74F1-397D-4304-8E67-427B0C24C25A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{735F74F1-397D-4304-8E67-427B0C24C25A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
